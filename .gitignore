@@ -136,6 +136,7 @@ Desktop.ini
 *.*~
 *~
 .merge_file*
+.auth0.env
 
 ######################
 # Gradle Wrapper
